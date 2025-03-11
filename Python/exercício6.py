@@ -1,0 +1,5 @@
+n = int(input('Me diga um numero: '))
+print('os resultados com o numero {} são:'.format(n))
+print('o dobro é: {}'.format (n*2))
+print('o triplo é: {}'.format (n*3))
+print('a raiz quadrada é: {:.2f}'. format (n**(1/2)))
